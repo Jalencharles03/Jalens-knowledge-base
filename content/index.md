@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Anime MC Hub
 ---
-## The index page
+## Introduction
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Anime MC Hub is a knowledge base dedicated to anime main characters from a variety of series and genres. A collection to organize information about protagonists, including their backgrounds, personalities, abilities, goals, and what anime they're from.
 
 ## Editing pages
 
