@@ -7,11 +7,11 @@ cssclasses:
 Anime MC Hub is a knowledge base dedicated to anime main characters from a variety of series and genres. A collection to organize information about protagonists, including their backgrounds, personalities, abilities, goals, and what anime they're from.
 
 ## Main Categories
-- [[category-01/index|Action & Adventure Protagonists]]
-- [[category-02/index|Fantasy & Isekai Protagonists]]
-- [[category-03/index|Supernatural & Power-Based Protagonists]]
-- [[category-04/index|Science Fiction & Mecha Protagonists]]
-- [[category-05/index|Psychological & Mystery Protagonists]]
+- [[Jalens-knowledge-base/content/01 Action-Adventure-Protagonists/index|Action & Adventure Protagonists]]
+- [[Jalens-knowledge-base/content/02 Fantasy-Isekai-Protagonists/index|Fantasy & Isekai Protagonists]]
+- [[Jalens-knowledge-base/content/03 Supernatural-Power-Based-Protagonists/index|Supernatural & Power-Based Protagonists]]
+- [[Jalens-knowledge-base/content/04 Science-Fiction-Mecha-Protagonists/index|Science Fiction & Mecha Protagonists]]
+- [[Jalens-knowledge-base/content/05 Psychological-Mystery-Protagonists/index|Psychological & Mystery Protagonists]]
 ---
 ## Adding new pages
 
