@@ -21,4 +21,4 @@ A similar category is [[Jalens-knowledge-base/content/02 Fantasy-Isekai-Protagon
 
 ## Related Categories
 
-Many action and adventure protagonists also appear in fantasy settings or embark on journeys through magical worlds. Learn more in [[Fantasy-Isekai-Protagonists/index]].
+Many action and adventure protagonists also appear in fantasy settings or embark on journeys through magical worlds. Learn more in [[Fantasy Isekai Protagonists/index]].
