@@ -21,4 +21,4 @@ A similar category is [[Jalens-knowledge-base/content/01 Action-Adventure-Protag
 
 ## Related Categories
 
-Many fantasy and isekai protagonists experience action-filled adventures and battles throughout their stories. Explore similar characters in [[Action-Adventure-Protagonists/index]].
+Many fantasy and isekai protagonists experience action-filled adventures and battles throughout their stories. Explore similar characters in [[01 Action-Adventure-Protagonists/index|Action & Adventure Protagonists]].
