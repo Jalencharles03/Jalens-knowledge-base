@@ -14,4 +14,4 @@ This section contains information about some of the most influential protagonist
 - [[Edward-Elric]]
 ## Related Categories
 
-Many action and adventure protagonists also appear in fantasy settings or embark on journeys through magical worlds. Learn more in [[Fantasy-Isekai-Protagonists/index]].
+Many action and adventure protagonists also appear in fantasy settings or embark on journeys through magical worlds. Learn more in [[02 Fantasy-Isekai-Protagonists/index|Fantasy & Isekai Protagonists]].
