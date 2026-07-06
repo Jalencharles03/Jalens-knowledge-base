@@ -1,5 +1,5 @@
 
-![Character image](Gon..md)
+![[Gon.png]]
 
 > "You can do whatever you want to hide your feelings... You still have a heart."
 
