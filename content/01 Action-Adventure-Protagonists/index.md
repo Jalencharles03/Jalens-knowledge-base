@@ -1,24 +1,17 @@
 ---
 title: Action & Adventure Protagonists
 ---
-## The Category 01 category index page
+# Action & Adventure Protagonists
 
-### What is this page?
+This section contains information about some of the most influential protagonists from action and adventure anime.
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
+## Characters
 
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
-
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-01/index.md`) instead of **Category 01**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 01`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[Jalens-knowledge-base/content/02 Fantasy-Isekai-Protagonists/index| Category 02]], which also uses the `index.md` method to specify a category page title and descriptive text.
-
+- [[Naruto-Uzumaki]]
+- [[Monkey-D-Luffy]]
+- [[Ichigo-Kurosaki]]
+- [[Gon-Freecss]]
+- [[Edward-Elric]]
 ## Related Categories
 
 Many action and adventure protagonists also appear in fantasy settings or embark on journeys through magical worlds. Learn more in [[Fantasy-Isekai-Protagonists/index]].
