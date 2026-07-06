@@ -1,5 +1,5 @@
 
-![Character image](Ed)
+![Character image](Ed.md)
 
 > "A lesson without pain is meaningless. That's because no one can gain without sacrificing something."
 

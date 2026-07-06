@@ -1,5 +1,5 @@
 
-![Character image](Ichigo.)
+![Character image](Ichigo..md)
 
 > "The difference in ability, what about it? Do you think i should give up just because you're stronger than me?"
 

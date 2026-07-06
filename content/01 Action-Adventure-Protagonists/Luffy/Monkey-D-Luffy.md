@@ -1,5 +1,5 @@
 
-![Character image](LuffyPNG)
+![Character image](LuffyPNG.md)
 
 > "I'm going to be King of the Pirates!"
 
