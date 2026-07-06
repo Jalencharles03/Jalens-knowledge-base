@@ -1,5 +1,5 @@
 
-![](Naruto.png)
+![[Naruto.png]]
 
 > "I'm going to be greater than any of them! Me, Naruto, the next Hokage, a ninja legend! Then everyone will have to stop disrespecting me and look up to me! Believe it!"
 
