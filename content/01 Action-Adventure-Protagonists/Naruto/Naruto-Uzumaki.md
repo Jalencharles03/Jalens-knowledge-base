@@ -27,7 +27,8 @@ Naruto serves as the central hero of the series, driving the story through his p
 
 - [[Ichigo-Kurosaki]]
 - [[Gon-Freecss]]
-
+## Additional Resources 
+#### Naruto Story Guide ![[Naruto episode guide.pdf]]
 ## See Also
 
 - [[Action-Adventure-Protagonists/index]]
