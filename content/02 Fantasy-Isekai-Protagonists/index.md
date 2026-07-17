@@ -1,24 +1,17 @@
 ---
 title: Fantasy & Isekai Protagonists
 ---
-## The Category 02 category index page
+# Fantasy and Isekai Protagonists
 
-### What is this page?
+Fantasy and isekai anime transport viewers to imaginative worlds filled with magic, mythical creatures, and unforgettable adventures. While fantasy stories take place entirely within fictional worlds, isekai stories follow characters who are transported or reincarnated into another world. The protagonists in this category demonstrate courage, growth, and leadership as they overcome extraordinary challenges.
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+## Characters
 
-On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
-
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-02/index.md`) instead of **Category 02**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 02`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[Jalens-knowledge-base/content/01 Action-Adventure-Protagonists/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
-
+- [[Kazuto-Kirigaya]]
+- [[Natsuki-Subaru]]
+- [[Asta]]
+- [[Meliodas]]
+- [[Aladdin]]
 ## Related Categories
 
 Many fantasy and isekai protagonists experience action-filled adventures and battles throughout their stories. Explore similar characters in [[01 Action-Adventure-Protagonists/index|Action & Adventure Protagonists]].
