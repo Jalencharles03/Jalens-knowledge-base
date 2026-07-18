@@ -1,3 +1,5 @@
+![[Subaru.png]]
+
 > "I know I'm weak. I know I can't do anything by myself. But that doesn't mean I can just give up."
 
 ## Overview

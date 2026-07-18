@@ -1,3 +1,5 @@
+![[Meliodus.png]]
+
 > "No matter how hopeless things seem, I'll always protect the people I care about."
 
 ## Overview

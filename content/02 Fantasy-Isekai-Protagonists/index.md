@@ -11,7 +11,7 @@ Fantasy and isekai anime transport viewers to imaginative worlds filled with mag
 - [[Natsuki-Subaru]]
 - [[Asta]]
 - [[Meliodas]]
-- [[Aladdin]]
+- [[Jalens-knowledge-base/content/02 Fantasy-Isekai-Protagonists/Aladdin/Aladdin]]
 ## Related Categories
 
 Many fantasy and isekai protagonists experience action-filled adventures and battles throughout their stories. Explore similar characters in [[01 Action-Adventure-Protagonists/index|Action & Adventure Protagonists]].

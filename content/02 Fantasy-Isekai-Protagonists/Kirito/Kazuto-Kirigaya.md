@@ -1,3 +1,5 @@
+![[Kirito.png]]
+
 >"I'd rather trust and regret than doubt and regret."
 
 ## Overview

@@ -1,3 +1,6 @@
+
+![[Aladdin.png]]
+
 >"No matter where people come from, everyone deserves the chance to choose their own future."
 ## Overview
 
