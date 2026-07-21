@@ -1,20 +1,18 @@
 ---
 title: Supernatural & Power-Based Protagonists
 ---
-## The Category 02 category index page
+# Supernatural & Power-Based Protagonists
 
-### What is this page?
+Supernatural and power-based anime often feature protagonists who possess extraordinary abilities beyond those of ordinary humans. Whether they gain psychic powers, inherit supernatural energy, form contracts with spirits or demons, or awaken hidden potential, these characters must learn to control their abilities while facing increasingly dangerous challenges. Their stories often explore themes of responsibility, self-discovery, sacrifice, and the struggle between good and evil. The protagonists in this category come from a variety of supernatural worlds, each offering a unique perspective on what it means to wield incredible power.
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+## Characters
 
-On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
+- [[Mob]]
+- [[Yuji-Itadori]]
+- [[Denji]]
+- [[Yusuke-Urameshi]]
+- [[Inuyasha]]
 
-### Naming a category page's index
+## Related Categories
 
-Why is this page's file name `index` (`example-category-02/index.md`) instead of **Category 02**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 02`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[Jalens-knowledge-base/content/01 Action-Adventure-Protagonists/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
+Many supernatural protagonists also experience exciting adventures and personal growth that connect them to heroes in the [[Action-Adventure-Protagonists/index|Action & Adventure Protagonists]] category. Others travel through magical worlds or encounter fantasy elements that overlap with the [[Fantasy-Isekai-Protagonists/index|Fantasy & Isekai Protagonists]] category, making these genres closely connected.
