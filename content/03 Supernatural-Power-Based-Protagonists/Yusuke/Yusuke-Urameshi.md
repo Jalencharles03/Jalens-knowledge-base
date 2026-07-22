@@ -1,3 +1,4 @@
+![[Yusuke.png]]
 >"Your potential and comfort cant coexist, one must die for the other to live."
 ## Overview
 

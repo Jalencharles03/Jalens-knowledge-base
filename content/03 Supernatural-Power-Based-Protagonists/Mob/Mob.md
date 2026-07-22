@@ -1,3 +1,4 @@
+![[Mob.png]]
 > "Everyone lacks something. People making up for others' deficiencies is what makes this world go round."
 
 ## Overview
