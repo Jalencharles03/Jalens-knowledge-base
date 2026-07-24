@@ -1,3 +1,4 @@
+![[Simon.png]]
 > "Don't believe in yourself. Believe in the me that believes in you!"
 
 ## Overview

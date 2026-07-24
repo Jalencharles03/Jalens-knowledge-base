@@ -1,3 +1,4 @@
+![[Shinji.png]]
 > "No one can justify life by linking happy moments into a rosary."
 
 ## Overview

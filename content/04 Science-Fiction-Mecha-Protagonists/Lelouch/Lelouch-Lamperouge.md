@@ -1,3 +1,4 @@
+![[Lelouch.png]]
 > "The only ones who should kill are those prepared to be killed."
 
 ## Overview
