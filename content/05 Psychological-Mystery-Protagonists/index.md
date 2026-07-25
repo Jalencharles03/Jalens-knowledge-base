@@ -1,20 +1,18 @@
 ---
 title: Psychological & Mystery Protagonists
 ---
-## The Category 02 category index page
+# Psychological & Mystery Protagonists
 
-### What is this page?
+Psychological and mystery anime place a strong emphasis on the human mind, moral dilemmas, and uncovering hidden truths. Rather than relying solely on action, these stories challenge their protagonists through complex decisions, emotional struggles, suspenseful investigations, and unpredictable twists. The characters in this category often face situations that test their beliefs, intelligence, and mental resilience while navigating mysteries that keep audiences engaged from beginning to end.
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+## Characters
 
-On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
+- [[Light-Yagami]]
+- [[Kenzo-Tenma]]
+- [[Lain-Iwakura]]
+- [[Guts]]
+- [[Satoru-Fujinuma]]
 
-### Naming a category page's index
+## Related Categories
 
-Why is this page's file name `index` (`example-category-02/index.md`) instead of **Category 02**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 02`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[Jalens-knowledge-base/content/01 Action-Adventure-Protagonists/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
+Many psychological and mystery anime also explore advanced technology, futuristic settings, and philosophical questions about humanity, creating strong connections to science fiction stories. Readers interested in these themes may also enjoy the [[Science-Fiction-Mecha-Protagonists/index|Science Fiction & Mecha Protagonists]] category. Those looking for protagonists with supernatural abilities and paranormal conflicts can also explore the [[Supernatural-Power-Based-Protagonists/index|Supernatural & Power-Based Protagonists]] category.
