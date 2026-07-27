@@ -1,3 +1,4 @@
+![[Guts.png]]
 > "Who am i to judge when i myself walk as an imperfect Man."
 
 ## Overview
@@ -23,7 +24,7 @@ Guts serves as the central hero of _Berserk_, with his journey portraying one of
 ### Related Characters
 
 - [[Light-Yagami]]
-- [[Kenzo-Tenma]]
+- [[Kenzou-Tenma]]
 
 ## See Also
 

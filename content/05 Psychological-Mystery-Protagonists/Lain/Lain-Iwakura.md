@@ -1,3 +1,4 @@
+![[Lain.png]]
 > "People only have substance within the memories of others. I only exist inside those people who are aware of my existence"
 
 ## Overview

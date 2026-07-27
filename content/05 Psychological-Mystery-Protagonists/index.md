@@ -8,7 +8,7 @@ Psychological and mystery anime place a strong emphasis on the human mind, moral
 ## Characters
 
 - [[Light-Yagami]]
-- [[Kenzo-Tenma]]
+- [[Kenzou-Tenma]]
 - [[Lain-Iwakura]]
 - [[Guts]]
 - [[Satoru-Fujinuma]]

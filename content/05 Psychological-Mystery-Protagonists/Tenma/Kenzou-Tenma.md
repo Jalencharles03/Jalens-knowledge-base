@@ -1,3 +1,4 @@
+![[Kenzou.png]]
 > "When you're in darkness, you only sink deeper into it. Keep the light shining."
 
 ## Overview

@@ -1,3 +1,4 @@
+![[Satoru.png]]
 > "My fate is my own. There's no need for you to feel responsible. I'm sure that what's become of me was a result of something I wanted."
 
 ## Overview

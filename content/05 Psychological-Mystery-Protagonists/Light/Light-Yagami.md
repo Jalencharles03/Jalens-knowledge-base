@@ -1,3 +1,4 @@
+![[Light.png]]
 > "I will become the god of a new world."
 
 ## Overview
@@ -23,7 +24,7 @@ Light serves as the central figure of _Death Note_, driving the story through hi
 ### Related Characters
 
 - [[Lain-Iwakura]]
-- [[Kenzo-Tenma]]
+- [[Kenzou-Tenma]]
 
 ## See Also
 
