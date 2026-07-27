@@ -1,7 +1,7 @@
 --- 
-title: Simon
-date: 2026-07-26 
-___
+ title: Simon
+ date: 2026-07-26 
+---
 
 ![[Simon.png]]
 > "Don't believe in yourself. Believe in the me that believes in you!"

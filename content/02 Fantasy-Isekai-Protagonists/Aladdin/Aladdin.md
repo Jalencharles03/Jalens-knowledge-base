@@ -1,7 +1,7 @@
 --- 
-title: Aladdin
-date: 2026-07-26 
-___
+ title: Aladdin
+ date: 2026-07-26 
+---
 
 ![[Aladdin.png]]
 

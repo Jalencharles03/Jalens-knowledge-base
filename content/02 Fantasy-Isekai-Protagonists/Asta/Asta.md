@@ -1,7 +1,7 @@
 --- 
-title: Asta
-date: 2026-07-26 
-___
+ title: Asta
+ date: 2026-07-26 
+---
 
 ![[Asta.png]]
 

@@ -1,7 +1,7 @@
 --- 
-title: Ichigo Kurosaki
-date: 2026-07-26 
-___
+ title: Ichigo Kurosaki
+ date: 2026-07-26 
+---
 
 ![[Ichigo.png]]
 

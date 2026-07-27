@@ -1,7 +1,7 @@
 --- 
-title: Naruto Uzumaki
-date: 2026-07-26
-___
+ title: Naruto Uzumaki
+ date: 2026-07-26
+---
 
 
 

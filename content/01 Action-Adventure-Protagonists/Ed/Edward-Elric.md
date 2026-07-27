@@ -1,7 +1,8 @@
---- 
-title: Edward Elric
-date: 2026-07-26 
-___
+---  
+ title: Edward Elric
+ date: 2026-07-26 
+---
+
 
 ![[Ed.png]]
 

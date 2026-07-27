@@ -1,7 +1,7 @@
 --- 
-title: Shinji Ikari
-date: 2026-07-26 
-___
+  title: Shinji Ikari
+  date: 2026-07-26 
+---
 
 ![[Shinji.png]]
 > "No one can justify life by linking happy moments into a rosary."

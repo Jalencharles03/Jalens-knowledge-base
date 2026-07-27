@@ -1,7 +1,9 @@
 --- 
-title: Gon Freecss
-date: 2026-07-26 
-___
+ title: Gon Freecss
+ date: 2026-07-26 
+---
+
+
 
 ![[Gon.png]]
 

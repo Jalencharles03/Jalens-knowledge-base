@@ -1,7 +1,7 @@
 --- 
-title: Vash the Stampede
-date: 2026-07-26 
-___
+ title: Vash the Stampede
+ date: 2026-07-26 
+---
 
 ![[Vash.png]]
 > "The longer one holds on to a memory, the longer one lives in the past. The deeper the memory they hold onto, the more beautiful the past will become. The beautiful memories will eventually turn into hate. Even if they look ahead, they lose the ability to walk. As long as the heavy chain called revenge continues to bind the heart, the tears of sadness will continue to flow."

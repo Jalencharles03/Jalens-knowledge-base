@@ -1,7 +1,7 @@
 --- 
-title: Meliodas
-date: 2026-07-26 
-___
+ title: Meliodas
+ date: 2026-07-26 
+---
 
 ![[Meliodus.png]]
 

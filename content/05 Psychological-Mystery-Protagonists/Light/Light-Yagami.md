@@ -1,7 +1,7 @@
 --- 
-title: Light Yagami 
-date: 2026-07-26 
-___
+ title: Light Yagami 
+ date: 2026-07-26 
+---
 
 ![[Light.png]]
 > "I will become the god of a new world."

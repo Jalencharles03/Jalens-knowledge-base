@@ -1,7 +1,7 @@
 --- 
-title: Natsuki Subaru
-date: 2026-07-26 
-___
+ title: Natsuki Subaru
+ date: 2026-07-26 
+---
 
 ![[Subaru.png]]
 

@@ -1,7 +1,7 @@
 --- 
-title: Kazuto Kirigaya
-date: 2026-07-26 
-___
+ title: Kazuto Kirigaya
+ date: 2026-07-26 
+---
 
 ![[Kirito.png]]
 

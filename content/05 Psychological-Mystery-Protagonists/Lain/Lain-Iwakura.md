@@ -1,7 +1,7 @@
 --- 
-title: Lain Iwakura
-date: 2026-07-26 
-___
+ title: Lain Iwakura
+ date: 2026-07-26 
+---
 
 ![[Lain.png]]
 > "People only have substance within the memories of others. I only exist inside those people who are aware of my existence"

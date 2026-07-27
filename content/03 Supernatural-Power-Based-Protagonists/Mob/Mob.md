@@ -1,7 +1,7 @@
 --- 
-title: Mob
-date: 2026-07-26 
-___
+ title: Mob
+ date: 2026-07-26 
+---
 
 ![[Mob.png]]
 > "Everyone lacks something. People making up for others' deficiencies is what makes this world go round."

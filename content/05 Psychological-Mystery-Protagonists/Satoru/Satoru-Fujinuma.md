@@ -1,7 +1,7 @@
 --- 
-title: Satoru Fujinuma 
-date: 2026-07-26 
-___
+ title: Satoru Fujinuma 
+ date: 2026-07-26 
+---
 
 ![[Satoru.png]]
 > "My fate is my own. There's no need for you to feel responsible. I'm sure that what's become of me was a result of something I wanted."

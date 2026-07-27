@@ -1,7 +1,7 @@
 --- 
-title: Lelouch Lamperouge
-date: 2026-07-26 
-___
+ title: Lelouch Lamperouge
+ date: 2026-07-26 
+---
 
 ![[Lelouch.png]]
 > "The only ones who should kill are those prepared to be killed."

@@ -1,7 +1,7 @@
 --- 
-title: Guts
-date: 2026-07-26 
-___
+ title: Guts
+ date: 2026-07-26 
+---
 
 ![[Guts.png]]
 > "Who am i to judge when i myself walk as an imperfect Man."

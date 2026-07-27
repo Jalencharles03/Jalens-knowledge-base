@@ -1,7 +1,7 @@
 --- 
-title: Inuyasha
-date: 2026-07-26 
-___
+ title: Inuyasha
+ date: 2026-07-26 
+---
 
 ![[Inuyasha.png]]
 > "I thought the only way was to carve out your own place, by force, that's how i survived. And by the time I knew what was happening, I was all alone.
