@@ -1,3 +1,9 @@
+---
+title: References
+---
+---
+ title: Refernces
+---
 # References
 
 ## General Character Information Sources
