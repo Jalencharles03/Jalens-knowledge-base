@@ -1,3 +1,7 @@
+--- 
+title: Gon Freecss
+date: 2026-07-26 
+___
 
 ![[Gon.png]]
 

@@ -1,3 +1,8 @@
+--- 
+title: Kazuto Kirigaya
+date: 2026-07-26 
+___
+
 ![[Kirito.png]]
 
 >"I'd rather trust and regret than doubt and regret."

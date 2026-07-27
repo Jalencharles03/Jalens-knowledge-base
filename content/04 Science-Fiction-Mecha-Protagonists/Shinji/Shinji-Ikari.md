@@ -1,3 +1,8 @@
+--- 
+title: Shinji Ikari
+date: 2026-07-26 
+___
+
 ![[Shinji.png]]
 > "No one can justify life by linking happy moments into a rosary."
 

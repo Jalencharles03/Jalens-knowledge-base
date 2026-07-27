@@ -1,3 +1,8 @@
+--- 
+title: Kenzou Tenma
+date: 2026-07-26 
+___
+
 ![[Kenzou.png]]
 > "When you're in darkness, you only sink deeper into it. Keep the light shining."
 

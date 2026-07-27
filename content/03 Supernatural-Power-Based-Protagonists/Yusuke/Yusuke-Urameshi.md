@@ -1,3 +1,8 @@
+--- 
+title: Yusuke Urameshi
+date: 2026-07-26 
+___
+
 ![[Yusuke.png]]
 >"Your potential and comfort cant coexist, one must die for the other to live."
 ## Overview

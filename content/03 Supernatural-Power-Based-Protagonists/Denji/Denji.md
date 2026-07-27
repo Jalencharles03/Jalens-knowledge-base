@@ -1,3 +1,8 @@
+--- 
+title: Denji
+date: 2026-07-26 
+___
+
 ![[Denji.png]]
 >"I don't know what's right or wrong anymore... I just know I wanna keep living."
 ## Overview

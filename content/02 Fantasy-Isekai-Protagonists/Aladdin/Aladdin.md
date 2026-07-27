@@ -1,3 +1,7 @@
+--- 
+title: Aladdin
+date: 2026-07-26 
+___
 
 ![[Aladdin.png]]
 

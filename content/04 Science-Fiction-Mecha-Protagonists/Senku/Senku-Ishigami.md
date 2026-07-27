@@ -1,3 +1,8 @@
+--- 
+title: Senku Ishigami
+date: 2026-07-26 
+___
+
 ![[Senku.png]]
 > "It's a slow but steady effort. I'm going to beat fantasy with science. This is exhilarating."
 

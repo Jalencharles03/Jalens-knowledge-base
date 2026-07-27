@@ -1,3 +1,7 @@
+--- 
+title: Ichigo Kurosaki
+date: 2026-07-26 
+___
 
 ![[Ichigo.png]]
 

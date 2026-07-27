@@ -1,3 +1,7 @@
+___
+title: Monkey D Luffy
+date: 2026-07-26 
+___
 
 ![[Luffy.png]]
 
