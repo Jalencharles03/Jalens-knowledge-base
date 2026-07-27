@@ -28,4 +28,4 @@ Yuji serves as the central hero of _Jujutsu Kaisen_, with his decision to consum
 
 ## See Also
 
-- [[Supernatural-Power-Based-Protagonists/index]]
+- [[03 Supernatural-Power-Based-Protagonists/index]]

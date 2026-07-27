@@ -30,4 +30,4 @@ Ichigo serves as the central hero of _Bleach_, acting as the bridge between the 
 
 ## See Also
 
-- [[Action-Adventure-Protagonists/index]]
+- [[01 Action-Adventure-Protagonists/index]]

@@ -29,4 +29,4 @@ Asta serves as the central hero of _Black Clover_, embodying the series' themes 
 
 ## See Also
 
-- [[Fantasy-Isekai-Protagonists/index]]
+- [[02 Fantasy-Isekai-Protagonists/index]]

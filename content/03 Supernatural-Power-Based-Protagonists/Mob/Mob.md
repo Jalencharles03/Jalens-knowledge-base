@@ -28,4 +28,4 @@ Mob serves as the central hero of _Mob Psycho 100_, with his journey focusing mo
 
 ## See Also
 
-- [[Supernatural-Power-Based-Protagonists/index]]
+- [[03 Supernatural-Power-Based-Protagonists/index]]

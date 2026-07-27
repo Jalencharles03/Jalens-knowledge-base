@@ -31,4 +31,4 @@ Naruto serves as the central hero of the series, driving the story through his p
 #### Naruto Story Guide ![[Naruto episode guide.pdf]]
 ## See Also
 
-- [[Action-Adventure-Protagonists/index]]
+- [[01 Action-Adventure-Protagonists/index]]

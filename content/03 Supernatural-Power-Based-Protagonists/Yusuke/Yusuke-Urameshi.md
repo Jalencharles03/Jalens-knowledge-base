@@ -27,4 +27,4 @@ Yusuke serves as the central hero of _Yu Yu Hakusho_, acting as the bridge betwe
 
 ## See Also
 
-- [[Supernatural-Power-Based-Protagonists/index]]
+- [[03 Supernatural-Power-Based-Protagonists/index]]

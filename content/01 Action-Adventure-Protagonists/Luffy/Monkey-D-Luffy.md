@@ -30,4 +30,4 @@ Monkey D. Luffy is the central hero of _One Piece_ and the driving force behind 
 
 ## See Also
 
-- [[Action-Adventure-Protagonists/index]]
+- [[01 Action-Adventure-Protagonists/index]]

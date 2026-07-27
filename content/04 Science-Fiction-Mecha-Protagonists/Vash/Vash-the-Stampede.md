@@ -28,4 +28,4 @@ Vash serves as the central hero of _Trigun_, with his unwavering commitment to p
 
 ## See Also
 
-- [[Science-Fiction-Mecha-Protagonists/index]]
+- [[04 Science-Fiction-Mecha-Protagonists/index]]

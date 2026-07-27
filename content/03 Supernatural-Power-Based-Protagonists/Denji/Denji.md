@@ -27,4 +27,4 @@ Denji serves as the central hero of _Chainsaw Man_, with his journey exploring t
 
 ## See Also
 
-- [[Supernatural-Power-Based-Protagonists/index]]
+- [[03 Supernatural-Power-Based-Protagonists/index]]

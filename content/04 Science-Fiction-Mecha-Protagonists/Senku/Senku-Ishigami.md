@@ -28,4 +28,4 @@ Senku serves as the central hero of _Dr. Stone_, leading humanity's effort to re
 
 ## See Also
 
-- [[Science-Fiction-Mecha-Protagonists/index]]
+- [[04 Science-Fiction-Mecha-Protagonists/index]]

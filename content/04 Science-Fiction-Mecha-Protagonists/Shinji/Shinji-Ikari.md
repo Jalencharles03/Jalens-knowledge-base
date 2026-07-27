@@ -28,4 +28,4 @@ Shinji serves as the emotional and narrative center of _Neon Genesis Evangelion_
 
 ## See Also
 
-- [[Science-Fiction-Mecha-Protagonists/index]]
+- [[04 Science-Fiction-Mecha-Protagonists/index]]

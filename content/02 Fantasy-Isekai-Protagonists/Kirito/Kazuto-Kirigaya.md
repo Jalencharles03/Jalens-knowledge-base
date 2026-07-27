@@ -29,4 +29,4 @@ Kirito serves as the central hero of _Sword Art Online_ and acts as the primary 
 
 ## See Also
 
-- [[Fantasy-Isekai-Protagonists/index]]
+- [[02 Fantasy-Isekai-Protagonists/index]]

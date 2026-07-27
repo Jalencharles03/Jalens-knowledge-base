@@ -28,4 +28,4 @@ Lain serves as the central figure of _Serial Experiments Lain_, guiding viewers 
 
 ## See Also
 
-- [[Psychological-Mystery-Protagonists/index]]
+- [[05 Psychological-Mystery-Protagonists/index]]

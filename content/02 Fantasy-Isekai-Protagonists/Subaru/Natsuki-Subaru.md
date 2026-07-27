@@ -29,4 +29,4 @@ Subaru serves as the central hero of _Re:Zero_, with the story focusing on his p
 
 ## See Also
 
-- [[Fantasy-Isekai-Protagonists/index]]
+-  [[02 Fantasy-Isekai-Protagonists/index]]

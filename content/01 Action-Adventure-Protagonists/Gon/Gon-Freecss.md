@@ -30,4 +30,4 @@ Gon serves as the central hero of Hunter × Hunter, and his quest to find his fa
 
 ## See Also
 
-- [[Action-Adventure-Protagonists/index]]
+- [[01 Action-Adventure-Protagonists/index]]

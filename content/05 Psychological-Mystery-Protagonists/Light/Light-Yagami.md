@@ -28,4 +28,4 @@ Light serves as the central figure of _Death Note_, driving the story through hi
 
 ## See Also
 
-- [[Psychological-Mystery-Protagonists/index]]
+- [[05 Psychological-Mystery-Protagonists/index]]

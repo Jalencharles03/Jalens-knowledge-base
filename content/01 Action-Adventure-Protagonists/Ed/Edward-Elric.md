@@ -30,4 +30,4 @@ Edward serves as the central hero of _Fullmetal Alchemist_, leading the story th
 
 ## See Also
 
-- [[Action-Adventure-Protagonists/index]]
+- [[01 Action-Adventure-Protagonists/index]]

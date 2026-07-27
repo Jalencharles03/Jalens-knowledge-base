@@ -28,4 +28,4 @@ Simon serves as the central hero of _Gurren Lagann_, with his personal growth dr
 
 ## See Also
 
-- [[Science-Fiction-Mecha-Protagonists/index]]
+- [[04 Science-Fiction-Mecha-Protagonists/index]]

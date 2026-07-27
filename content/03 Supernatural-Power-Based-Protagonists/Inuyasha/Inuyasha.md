@@ -28,4 +28,4 @@ Inuyasha serves as the central hero of _Inuyasha_, leading the quest to recover 
 
 ## See Also
 
-- [[Supernatural-Power-Based-Protagonists/index]]
+- [[03 Supernatural-Power-Based-Protagonists/index]]

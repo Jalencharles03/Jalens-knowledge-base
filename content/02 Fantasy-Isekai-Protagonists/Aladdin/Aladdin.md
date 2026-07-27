@@ -29,5 +29,5 @@ Aladdin serves as one of the central protagonists of _Magi: The Labyrinth of Mag
 
 ## See Also
 
-- [[Fantasy-Isekai-Protagonists/index]]
+- [[02 Fantasy-Isekai-Protagonists/index]]
 

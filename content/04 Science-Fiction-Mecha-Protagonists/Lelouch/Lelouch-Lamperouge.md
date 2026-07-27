@@ -28,4 +28,4 @@ Lelouch serves as the central hero of _Code Geass_, driving the series through h
 
 ## See Also
 
-- [[Science-Fiction-Mecha-Protagonists/index]]
+- [[04 Science-Fiction-Mecha-Protagonists/index]]

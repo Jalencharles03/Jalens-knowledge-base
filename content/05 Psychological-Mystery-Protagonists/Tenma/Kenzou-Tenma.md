@@ -28,4 +28,4 @@ Kenzo Tenma serves as the central hero of _Monster_, driving the story through h
 
 ## See Also
 
-- [[Psychological-Mystery-Protagonists/index]]
+- [[05 Psychological-Mystery-Protagonists/index]]

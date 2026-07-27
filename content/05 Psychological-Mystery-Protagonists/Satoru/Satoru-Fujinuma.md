@@ -28,4 +28,4 @@ Satoru serves as the central hero of _Erased_, with his journey revolving around
 
 ## See Also
 
-- [[Psychological-Mystery-Protagonists/index]]
+- [[05 Psychological-Mystery-Protagonists/index]]

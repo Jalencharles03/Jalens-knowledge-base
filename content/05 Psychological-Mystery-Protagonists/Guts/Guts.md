@@ -28,4 +28,4 @@ Guts serves as the central hero of _Berserk_, with his journey portraying one of
 
 ## See Also
 
-- [[Psychological-Mystery-Protagonists/index]]
+- [[05 Psychological-Mystery-Protagonists/index]]

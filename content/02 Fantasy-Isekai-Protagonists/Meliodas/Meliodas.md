@@ -29,4 +29,4 @@ Meliodas serves as the central hero of _The Seven Deadly Sins_, leading his comp
 
 ## See Also
 
-- [[Fantasy-Isekai-Protagonists/index]]
+- [[02 Fantasy-Isekai-Protagonists/index]]
