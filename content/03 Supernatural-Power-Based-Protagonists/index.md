@@ -15,4 +15,4 @@ Supernatural and power-based anime often feature protagonists who possess extrao
 
 ## Related Categories
 
-Many supernatural protagonists also experience exciting adventures and personal growth that connect them to heroes in the [[Action-Adventure-Protagonists/index|Action & Adventure Protagonists]] category. Others travel through magical worlds or encounter fantasy elements that overlap with the [[Fantasy-Isekai-Protagonists/index|Fantasy & Isekai Protagonists]] category, making these genres closely connected.
+Many supernatural protagonists also experience exciting adventures and personal growth that connect them to heroes in the [[01 Action-Adventure-Protagonists/index|Action & Adventure Protagonists]] category. Others travel through magical worlds or encounter fantasy elements that overlap with the [[02 Fantasy-Isekai-Protagonists/index|Fantasy & Isekai Protagonists]] category, making these genres closely connected.

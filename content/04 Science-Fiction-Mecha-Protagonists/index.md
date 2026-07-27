@@ -15,4 +15,4 @@ Science fiction and mecha anime explore futuristic technology, advanced civiliza
 
 ## Related Categories
 
-Science fiction and mecha protagonists frequently overlap with heroes found in the [[Psychological-Mystery-Protagonists/index|Psychological-Mystery-Protagonists]] category because their stories involve major conflicts, personal growth, and high-stakes journeys. Many of them also share thematic connections with the [[Supernatural-Power-Based-Protagonists/index|Supernatural-Power-Based Protagonists]] category, as both genres often feature characters with abilities or technologies that exceed normal human limitations.
+Science fiction and mecha protagonists frequently overlap with heroes found in the [[05 Psychological-Mystery-Protagonists/index|Psychological-Mystery-Protagonists]] category because their stories involve major conflicts, personal growth, and high-stakes journeys. Many of them also share thematic connections with the [[03 Supernatural-Power-Based-Protagonists/index|Supernatural-Power-Based Protagonists]] category, as both genres often feature characters with abilities or technologies that exceed normal human limitations.
